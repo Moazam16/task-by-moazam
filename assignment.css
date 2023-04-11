@@ -1,0 +1,206 @@
+.header {
+    background-color: aqua;
+    /* margin: auto; */
+    padding: 3px;
+    border: solid;
+    color: black;
+
+}
+
+.header1 {
+    color: blue;
+    font-size: 85px;
+
+}
+
+.header2 {
+    color: blueviolet;
+    font-size: 50px;
+    position: relative;
+    left: 400px;
+}
+
+.header3 {
+    color: rgb(18, 1, 34);
+    font-size: 30px;
+    position: relative;
+    left: 900px;
+}
+
+.main {
+    background-color: purple;
+    padding: 1px;
+    height: 70vh;
+    margin: 100px;
+    padding: 1px;
+}
+
+.main1 {
+    color: burlywood;
+    font-size: 50px;
+}
+
+.main2 {
+    color: cadetblue;
+    font-size: 35px;
+}
+
+.main3 {
+    color: cadetblue;
+    font-size: 35px;
+}
+
+.image1 {
+    background-image: url("/beauty.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 200px;
+    background-size: 1200px;
+
+}
+
+.image2 {
+    background-image: url("/jiyg.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-repeat: repeat;
+    background-position: ;
+    position: relative;
+    top: 250px;
+}
+
+.text {
+    background-color: rgb(238, 241, 244);
+    border: solid;
+    color: black;
+    padding: 6px;
+    margin: 290px;
+    height: 70vh;
+    width: 90vw;
+    position: relative;
+    right: 350px;
+
+
+}
+
+.text1 {
+    background-color: green;
+    font-size: 85px;
+}
+
+.text2 {
+    background-color: skyblue;
+    font-size: 50px;
+}
+
+.text3 {
+    background-color: rgb(42, 91, 107);
+    font-size: 30px;
+}
+
+.maintext {
+    border: solid;
+    height: 60vh;
+    width: 80vw;
+}
+
+.textone {
+    font-size: 50px;
+    text-decoration-line: overline;
+
+}
+
+.texttwo {
+    font-size: 40px;
+    text-decoration-line: line-through;
+}
+
+.textthree {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.padding {
+    margin: 100px;
+    background-color: aquamarine;
+    padding: 100px 75px 50px 25px;
+    border: solid;
+    border-color: black;
+}
+
+.box {
+    background-color: burlywood;
+    padding: 100px 75px 50px 25px;
+    height: 35vh;
+    width: 40vw;
+    margin: 20px;
+    border: solid;
+    border-width: 15px;
+    border-color: green;
+}
+
+
+.image {
+    background-image: url("/bbb");
+    height: 80vh;
+    width: 100vh;
+    background-repeat: no-repeat;
+    background-size: 425px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+
+}
+
+.google {
+    margin: auto;
+    margin-left: auto;
+    background-color: white;
+    height: 90vh;
+    width: 90vw;
+    border: solid;
+    border-color: black;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.nav1 {
+    font-size: larger;
+    position: relative;
+    left: 700px;
+    bottom: 5px;
+}
+
+.nav2 {
+    font-size: larger;
+    position: relative;
+    left: 450px;
+    bottom: 5px;
+}
+
+.nav3 {
+
+    font-size: larger;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
+
+}
+
+#bar {
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    border-radius: 60px;
+    position: relative;
+    bottom: 250px;
+    left: 380px;
+    height: 30px;
+}
